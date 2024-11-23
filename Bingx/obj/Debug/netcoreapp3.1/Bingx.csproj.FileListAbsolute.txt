@@ -1,0 +1,84 @@
+I:\Binance.Net-master\Bingx\obj\Debug\netcoreapp3.1\Bingx.csproj.AssemblyReference.cache
+I:\Binance.Net-master\Bingx\obj\Debug\netcoreapp3.1\Bingx.GeneratedMSBuildEditorConfig.editorconfig
+I:\Binance.Net-master\Bingx\obj\Debug\netcoreapp3.1\Bingx.AssemblyInfoInputs.cache
+I:\Binance.Net-master\Bingx\obj\Debug\netcoreapp3.1\Bingx.AssemblyInfo.cs
+I:\Binance.Net-master\Bingx\obj\Debug\netcoreapp3.1\Bingx.csproj.CoreCompileInputs.cache
+D:\Bingx\obj\Debug\netcoreapp3.1\Bingx.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bingx\obj\Debug\netcoreapp3.1\Bingx.AssemblyInfoInputs.cache
+D:\Bingx\obj\Debug\netcoreapp3.1\Bingx.AssemblyInfo.cs
+D:\Bingx\obj\Debug\netcoreapp3.1\Bingx.csproj.CoreCompileInputs.cache
+D:\Bingx\bin\Debug\netcoreapp3.1\Bingx.deps.json
+D:\Bingx\bin\Debug\netcoreapp3.1\Bingx.dll
+D:\Bingx\bin\Debug\netcoreapp3.1\Bingx.pdb
+D:\Bingx\obj\Debug\netcoreapp3.1\Bingx.dll
+D:\Bingx\obj\Debug\netcoreapp3.1\Bingx.pdb
+D:\Project\Bingx\Bingx\bin\Debug\netcoreapp3.1\Bingx.deps.json
+D:\Project\Bingx\Bingx\bin\Debug\netcoreapp3.1\Bingx.dll
+D:\Project\Bingx\Bingx\bin\Debug\netcoreapp3.1\Bingx.pdb
+D:\Project\Bingx\Bingx\obj\Debug\netcoreapp3.1\Bingx.csproj.AssemblyReference.cache
+D:\Project\Bingx\Bingx\obj\Debug\netcoreapp3.1\Bingx.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Bingx\Bingx\obj\Debug\netcoreapp3.1\Bingx.AssemblyInfoInputs.cache
+D:\Project\Bingx\Bingx\obj\Debug\netcoreapp3.1\Bingx.AssemblyInfo.cs
+D:\Project\Bingx\Bingx\obj\Debug\netcoreapp3.1\Bingx.csproj.CoreCompileInputs.cache
+D:\Project\Bingx\Bingx\obj\Debug\netcoreapp3.1\Bingx.dll
+D:\Project\Bingx\Bingx\obj\Debug\netcoreapp3.1\Bingx.pdb
+E:\New folder\Bingx\Bingx\bin\Debug\netcoreapp3.1\Bingx.deps.json
+E:\New folder\Bingx\Bingx\bin\Debug\netcoreapp3.1\Bingx.dll
+E:\New folder\Bingx\Bingx\bin\Debug\netcoreapp3.1\Bingx.pdb
+E:\New folder\Bingx\Bingx\obj\Debug\netcoreapp3.1\Bingx.csproj.AssemblyReference.cache
+E:\New folder\Bingx\Bingx\obj\Debug\netcoreapp3.1\Bingx.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\Bingx\Bingx\obj\Debug\netcoreapp3.1\Bingx.AssemblyInfoInputs.cache
+E:\New folder\Bingx\Bingx\obj\Debug\netcoreapp3.1\Bingx.AssemblyInfo.cs
+E:\New folder\Bingx\Bingx\obj\Debug\netcoreapp3.1\Bingx.csproj.CoreCompileInputs.cache
+E:\New folder\Bingx\Bingx\obj\Debug\netcoreapp3.1\Bingx.dll
+E:\New folder\Bingx\Bingx\obj\Debug\netcoreapp3.1\Bingx.pdb
+E:\New folder\Bingx-1\Bingx\bin\Debug\netcoreapp3.1\Bingx.deps.json
+E:\New folder\Bingx-1\Bingx\bin\Debug\netcoreapp3.1\Bingx.dll
+E:\New folder\Bingx-1\Bingx\bin\Debug\netcoreapp3.1\Bingx.pdb
+E:\New folder\Bingx-1\Bingx\obj\Debug\netcoreapp3.1\Bingx.csproj.AssemblyReference.cache
+E:\New folder\Bingx-1\Bingx\obj\Debug\netcoreapp3.1\Bingx.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\Bingx-1\Bingx\obj\Debug\netcoreapp3.1\Bingx.AssemblyInfoInputs.cache
+E:\New folder\Bingx-1\Bingx\obj\Debug\netcoreapp3.1\Bingx.AssemblyInfo.cs
+E:\New folder\Bingx-1\Bingx\obj\Debug\netcoreapp3.1\Bingx.csproj.CoreCompileInputs.cache
+E:\New folder\Bingx-1\Bingx\obj\Debug\netcoreapp3.1\Bingx.dll
+E:\New folder\Bingx-1\Bingx\obj\Debug\netcoreapp3.1\Bingx.pdb
+F:\Debug\Bingx-1\Bingx\bin\Debug\netcoreapp3.1\Bingx.deps.json
+F:\Debug\Bingx-1\Bingx\bin\Debug\netcoreapp3.1\Bingx.dll
+F:\Debug\Bingx-1\Bingx\bin\Debug\netcoreapp3.1\Bingx.pdb
+F:\Debug\Bingx-1\Bingx\obj\Debug\netcoreapp3.1\Bingx.csproj.AssemblyReference.cache
+F:\Debug\Bingx-1\Bingx\obj\Debug\netcoreapp3.1\Bingx.GeneratedMSBuildEditorConfig.editorconfig
+F:\Debug\Bingx-1\Bingx\obj\Debug\netcoreapp3.1\Bingx.AssemblyInfoInputs.cache
+F:\Debug\Bingx-1\Bingx\obj\Debug\netcoreapp3.1\Bingx.AssemblyInfo.cs
+F:\Debug\Bingx-1\Bingx\obj\Debug\netcoreapp3.1\Bingx.csproj.CoreCompileInputs.cache
+F:\Debug\Bingx-1\Bingx\obj\Debug\netcoreapp3.1\Bingx.dll
+F:\Debug\Bingx-1\Bingx\obj\Debug\netcoreapp3.1\Bingx.pdb
+C:\Users\mohsen\Desktop\Bingx-1\Bingx\bin\Debug\netcoreapp3.1\Bingx.deps.json
+C:\Users\mohsen\Desktop\Bingx-1\Bingx\bin\Debug\netcoreapp3.1\Bingx.dll
+C:\Users\mohsen\Desktop\Bingx-1\Bingx\bin\Debug\netcoreapp3.1\Bingx.pdb
+C:\Users\mohsen\Desktop\Bingx-1\Bingx\obj\Debug\netcoreapp3.1\Bingx.csproj.AssemblyReference.cache
+C:\Users\mohsen\Desktop\Bingx-1\Bingx\obj\Debug\netcoreapp3.1\Bingx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohsen\Desktop\Bingx-1\Bingx\obj\Debug\netcoreapp3.1\Bingx.AssemblyInfoInputs.cache
+C:\Users\mohsen\Desktop\Bingx-1\Bingx\obj\Debug\netcoreapp3.1\Bingx.AssemblyInfo.cs
+C:\Users\mohsen\Desktop\Bingx-1\Bingx\obj\Debug\netcoreapp3.1\Bingx.csproj.CoreCompileInputs.cache
+C:\Users\mohsen\Desktop\Bingx-1\Bingx\obj\Debug\netcoreapp3.1\Bingx.dll
+C:\Users\mohsen\Desktop\Bingx-1\Bingx\obj\Debug\netcoreapp3.1\Bingx.pdb
+F:\Bingx-1\Bingx\bin\Debug\netcoreapp3.1\Bingx.deps.json
+F:\Bingx-1\Bingx\bin\Debug\netcoreapp3.1\Bingx.dll
+F:\Bingx-1\Bingx\bin\Debug\netcoreapp3.1\Bingx.pdb
+F:\Bingx-1\Bingx\obj\Debug\netcoreapp3.1\Bingx.csproj.AssemblyReference.cache
+F:\Bingx-1\Bingx\obj\Debug\netcoreapp3.1\Bingx.GeneratedMSBuildEditorConfig.editorconfig
+F:\Bingx-1\Bingx\obj\Debug\netcoreapp3.1\Bingx.AssemblyInfoInputs.cache
+F:\Bingx-1\Bingx\obj\Debug\netcoreapp3.1\Bingx.AssemblyInfo.cs
+F:\Bingx-1\Bingx\obj\Debug\netcoreapp3.1\Bingx.csproj.CoreCompileInputs.cache
+F:\Bingx-1\Bingx\obj\Debug\netcoreapp3.1\Bingx.dll
+F:\Bingx-1\Bingx\obj\Debug\netcoreapp3.1\Bingx.pdb
+E:\New folder\Bingx\bin\Debug\netcoreapp3.1\Bingx.deps.json
+E:\New folder\Bingx\bin\Debug\netcoreapp3.1\Bingx.dll
+E:\New folder\Bingx\bin\Debug\netcoreapp3.1\Bingx.pdb
+E:\New folder\Bingx\obj\Debug\netcoreapp3.1\Bingx.csproj.AssemblyReference.cache
+E:\New folder\Bingx\obj\Debug\netcoreapp3.1\Bingx.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\Bingx\obj\Debug\netcoreapp3.1\Bingx.AssemblyInfoInputs.cache
+E:\New folder\Bingx\obj\Debug\netcoreapp3.1\Bingx.AssemblyInfo.cs
+E:\New folder\Bingx\obj\Debug\netcoreapp3.1\Bingx.csproj.CoreCompileInputs.cache
+E:\New folder\Bingx\obj\Debug\netcoreapp3.1\Bingx.dll
+E:\New folder\Bingx\obj\Debug\netcoreapp3.1\Bingx.pdb

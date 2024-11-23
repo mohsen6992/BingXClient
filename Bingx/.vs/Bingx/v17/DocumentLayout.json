@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\New folder\\Bingx\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B822137A-0FBB-427E-82C4-12BD7B31BB18}|..\\ConsoleApp4\\ConsoleApp4.csproj|e:\\new folder\\consoleapp4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF866CA-2B86-43D2-9DD6-3ABB319A31E4}|Bingx.csproj|e:\\new folder\\bingx\\api\\bingxclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AF866CA-2B86-43D2-9DD6-3ABB319A31E4}|Bingx.csproj|solutionrelative:api\\bingxclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF866CA-2B86-43D2-9DD6-3ABB319A31E4}|Bingx.csproj|e:\\new folder\\bingx\\operation\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AF866CA-2B86-43D2-9DD6-3ABB319A31E4}|Bingx.csproj|solutionrelative:operation\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF866CA-2B86-43D2-9DD6-3ABB319A31E4}|Bingx.csproj|e:\\new folder\\bingx\\api\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AF866CA-2B86-43D2-9DD6-3ABB319A31E4}|Bingx.csproj|solutionrelative:api\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF866CA-2B86-43D2-9DD6-3ABB319A31E4}|Bingx.csproj|e:\\new folder\\bingx\\api\\model\\messageerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AF866CA-2B86-43D2-9DD6-3ABB319A31E4}|Bingx.csproj|solutionrelative:api\\model\\messageerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF866CA-2B86-43D2-9DD6-3ABB319A31E4}|Bingx.csproj|e:\\new folder\\bingx\\api\\trade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AF866CA-2B86-43D2-9DD6-3ABB319A31E4}|Bingx.csproj|solutionrelative:api\\trade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF866CA-2B86-43D2-9DD6-3ABB319A31E4}|Bingx.csproj|e:\\new folder\\bingx\\api\\bingxrestclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AF866CA-2B86-43D2-9DD6-3ABB319A31E4}|Bingx.csproj|solutionrelative:api\\bingxrestclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF866CA-2B86-43D2-9DD6-3ABB319A31E4}|Bingx.csproj|e:\\new folder\\bingx\\api\\bingxclientoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AF866CA-2B86-43D2-9DD6-3ABB319A31E4}|Bingx.csproj|solutionrelative:api\\bingxclientoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MessageError.cs",
+              "DocumentMoniker": "E:\\New folder\\Bingx\\Api\\Model\\MessageError.cs",
+              "RelativeDocumentMoniker": "Api\\Model\\MessageError.cs",
+              "ToolTip": "E:\\New folder\\Bingx\\Api\\Model\\MessageError.cs",
+              "RelativeToolTip": "Api\\Model\\MessageError.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T07:07:18.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BingxRestClient.cs",
+              "DocumentMoniker": "E:\\New folder\\Bingx\\Api\\BingxRestClient.cs",
+              "RelativeDocumentMoniker": "Api\\BingxRestClient.cs",
+              "ToolTip": "E:\\New folder\\Bingx\\Api\\BingxRestClient.cs",
+              "RelativeToolTip": "Api\\BingxRestClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T07:02:41.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BingxClientOptions.cs",
+              "DocumentMoniker": "E:\\New folder\\Bingx\\Api\\BingxClientOptions.cs",
+              "RelativeDocumentMoniker": "Api\\BingxClientOptions.cs",
+              "ToolTip": "E:\\New folder\\Bingx\\Api\\BingxClientOptions.cs",
+              "RelativeToolTip": "Api\\BingxClientOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T07:02:40.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Account.cs",
+              "DocumentMoniker": "E:\\New folder\\Bingx\\Api\\Account.cs",
+              "RelativeDocumentMoniker": "Api\\Account.cs",
+              "ToolTip": "E:\\New folder\\Bingx\\Api\\Account.cs",
+              "RelativeToolTip": "Api\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T07:00:00.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BingxClient.cs",
+              "DocumentMoniker": "E:\\New folder\\Bingx\\Api\\BingxClient.cs",
+              "RelativeDocumentMoniker": "Api\\BingxClient.cs",
+              "ToolTip": "E:\\New folder\\Bingx\\Api\\BingxClient.cs",
+              "RelativeToolTip": "Api\\BingxClient.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T07:01:41.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\New folder\\ConsoleApp4\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp4\\Program.cs",
+              "ToolTip": "E:\\New folder\\ConsoleApp4\\Program.cs",
+              "RelativeToolTip": "..\\ConsoleApp4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T06:59:05.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Trade.cs",
+              "DocumentMoniker": "E:\\New folder\\Bingx\\Api\\Trade.cs",
+              "RelativeDocumentMoniker": "Api\\Trade.cs",
+              "ToolTip": "E:\\New folder\\Bingx\\Api\\Trade.cs",
+              "RelativeToolTip": "Api\\Trade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T06:56:30.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "E:\\New folder\\Bingx\\Operation\\Order.cs",
+              "RelativeDocumentMoniker": "Operation\\Order.cs",
+              "ToolTip": "E:\\New folder\\Bingx\\Operation\\Order.cs",
+              "RelativeToolTip": "Operation\\Order.cs",
+              "ViewState": "AgIAACsBAAAAAAAAAAAawJcBAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T06:54:17.663Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
